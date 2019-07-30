@@ -2,6 +2,10 @@
 
 # Python
 
+## What not to do
+
+[Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/assigning_to_builtin.html)
+
 ## Scripting
 
 [Scripting](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)
