@@ -10,7 +10,13 @@
 
 [Scripting](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)
 
-## Pandas
+## [Numpy](https://numpy.org/)
+
+[GitHub](https://github.com/numpy/numpy)
+
+## [Pandas](https://pandas.pydata.org/)
+
+[GitHub](https://github.com/pandas-dev/pandas)
 
 [Top 25 pandas tricks](https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb)
 
