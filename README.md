@@ -18,6 +18,9 @@
 ### Scripting
 [Scripting](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)
 
+### Optimisation
+[Optimize Python](https://www.markkeller.dev/2018-07-14-optimize_python/)
+
 ## Pakages
 
 ### [Numpy](https://numpy.org/)
